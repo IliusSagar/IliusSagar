@@ -58,11 +58,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IliusSagar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IliusSagar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IliusSagar&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=IliusSagar&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://ilius-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -87,11 +97,11 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/mohammad-ilius-sagar-725b46a6/" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/linkedin.png" height="30" width="30" />
 </a>
 
-<a href="https://facebook.com/YOUR-FACEBOOK" target="blank">
+<a href="https://www.facebook.com/sagar.ilius" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/facebook.png" height="30" width="30" />
 </a>
 </p>
