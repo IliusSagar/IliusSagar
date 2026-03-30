@@ -108,6 +108,10 @@
 <a href="https://www.facebook.com/sagar.ilius" target="blank">
 <img align="center" src="https://img.icons8.com/color/48/facebook.png" height="30" width="30" />
 </a>
+
+<a href="https://wa.me/8801830596312" target="blank">
+<img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" height="30" width="30" />
+</a>
 </p>
 
 ---
