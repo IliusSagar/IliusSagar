@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://ilius-dev.vercel.app/" target="_blank">
-    <img src="https://image.thum.io/get/width/800/https://ilius-dev.vercel.app/" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Visit%20My%20Portfolio&fontSize=40&fontColor=ffffff" />
   </a>
 </p>
 
