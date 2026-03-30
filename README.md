@@ -58,7 +58,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IliusSagar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <!-- Primary -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=IliusSagar&show_icons=true&theme=tokyonight" />
+
+<!-- Backup -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IliusSagar&theme=tokyonight" />
 </p>
 
 <p align="center">
